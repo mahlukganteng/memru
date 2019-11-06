@@ -13,7 +13,7 @@ include ("function.php");
 echo "\e[96m   ============================================\n";
 echo "\e[96m  |  Memru Gojek De + Redem Voucher            |\n";
 echo "\e[96m  |  Source      : Mahlukganteng.com           |\n";
-echo "\e[96m  |  Tanggal     : ".date('d-m-Y H:i:s')."     |\n";
+echo "\e[96m  |  Tanggal     : ".date('d-m-Y H:i:s')."         |\n";
 echo "\e[96m  |  Input Awalan Nomor 62 .....               |\n";
 echo "\e[96m   ============  Script xi.2019  ==============\n\n";
 
